@@ -1,0 +1,18 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+.navbar {
+    background-color: #F5F4F5 !important;
+}
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-size: 2rem !important;
+    color: #E5989B !important;
+    text-transform: capitalize !important;
+}
+
+#mascotitas p{
+    color: red;
+
+}

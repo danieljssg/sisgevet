@@ -1,0 +1,3 @@
+REACT APP
+Hay un problema con el redireccionamiento, pero en local funciona, debe ejecutar yarn start o npm start o npm install para todas las dependencias
+https://danieljssg.github.io/sisgevet.github.io/
